@@ -1,6 +1,6 @@
 # Story Flow
 
-`storyFlow` is a web application built with Svelte and Tailwind CSS that allows users to upload a JSON story file, visualize it through charts, create presentation slides, and export them in various formats (PDF or PowerPoint).
+`Story Flow` is a web application built with Svelte and Tailwind CSS that allows users to upload a JSON story file, visualize it through charts, create presentation slides, and export them in various formats (PDF or PowerPoint).
 
 ## Features
 
